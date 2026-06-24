@@ -38,7 +38,8 @@ My work sits at the intersection of **machine learning engineering** and **respo
 - **BSc Data Science & AI** — Deusto University, Bilbao (2022–2026) · GPA 8.13/10
 - **Exchange — Computer Science** — Sungkyunkwan University, Seoul (2025) · GPA 4.42/4.5
 - WorldQuant University — Applied Data Science Lab (2026)
-- Google — AI & Productivity (2025) · Cambridge C1 Advanced (2024)
+- Google — AI & Productivity (2025)
+- Cambridge C1 Advanced (2024)
 
 ---
 
