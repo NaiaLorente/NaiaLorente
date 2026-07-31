@@ -2,7 +2,7 @@
 
 **Data Science & AI · Responsible ML · MLOps**
 
-Final-year BSc student at Deusto University (GPA 8.13/10), currently finishing my degree project: a natural-language interface for real-world traffic data using RAG + LLMs. I did an exchange semester at Sungkyunkwan University in Seoul (GPA 4.42/4.5) and spent ~700 hours as an AI Data Annotation Specialist at DataAnnotation, evaluating model safety and bias in English and Spanish.
+BSc in Data Science & AI graduate from Deusto University (GPA 8.13/10, July 2026). My degree project, [MadTraffic AI](https://github.com/NaiaLorente/MadTraffic-AI), is a natural-language interface for real-world traffic data using RAG + LLMs. I did an exchange semester at Sungkyunkwan University in Seoul (GPA 4.42/4.5) and spent ~700 hours as an AI Data Annotation Specialist at DataAnnotation, evaluating model safety and bias in English and Spanish.
 
 My work sits at the intersection of **machine learning engineering** and **responsible AI** — I care about building models that work reliably in production, not just in notebooks.
 
@@ -12,9 +12,10 @@ My work sits at the intersection of **machine learning engineering** and **respo
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**MadTraffic AI**](https://github.com/NaiaLorente/MadTraffic-AI) | Bachelor's thesis — NL assistant for Madrid traffic data, RAG-grounded with no hallucinated numbers (0.973 eval score), BYOK-ready | FastAPI · DuckDB · ChromaDB · LangChain |
 | [**StreamGuard**](https://github.com/NaiaLorente/streamguard) | Production ML monitoring — drift detection, SHAP explainability, performance tracking, REST API | FastAPI · SciPy · SHAP · Streamlit · Docker |
 | [**FairLens**](https://github.com/NaiaLorente/fairlens) | AI fairness auditing toolkit — 5 bias metrics, intersectional bias, HTML compliance reports (EU AI Act / EEOC) | Python · scikit-learn · Streamlit |
-| [**data-analyst**]([https://github.com/NaiaLorente/ai-data-analyst](https://github.com/NaiaLorente/data-analyst)) | Natural-language data analysis agent | LangChain · LLMs · DuckDB |
+| [**data-analyst**](https://github.com/NaiaLorente/data-analyst) | Natural-language data analysis agent | LangChain · LLMs · DuckDB |
 | [**anomaly-detection**](https://github.com/NaiaLorente/anomaly-detection) | Anomaly detection pipeline | Python · scikit-learn |
 | **Recommendation System** | Neural collaborative filtering + hybrid content model on MovieLens | PyTorch · TF-IDF |
 | **Distributed Big-Data Pipeline** | Hadoop/Spark cluster on AWS EC2, Airflow DAGs, 5k+ shooting records | PySpark · Hadoop · Airflow · AWS |
